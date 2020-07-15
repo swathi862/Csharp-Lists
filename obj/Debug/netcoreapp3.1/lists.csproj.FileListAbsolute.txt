@@ -1,0 +1,13 @@
+C:\Users\NewForce\workspace\back-end\orientation\lists\bin\Debug\netcoreapp3.1\lists.exe
+C:\Users\NewForce\workspace\back-end\orientation\lists\bin\Debug\netcoreapp3.1\lists.deps.json
+C:\Users\NewForce\workspace\back-end\orientation\lists\bin\Debug\netcoreapp3.1\lists.runtimeconfig.json
+C:\Users\NewForce\workspace\back-end\orientation\lists\bin\Debug\netcoreapp3.1\lists.runtimeconfig.dev.json
+C:\Users\NewForce\workspace\back-end\orientation\lists\bin\Debug\netcoreapp3.1\lists.dll
+C:\Users\NewForce\workspace\back-end\orientation\lists\bin\Debug\netcoreapp3.1\lists.pdb
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.csprojAssemblyReference.cache
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.AssemblyInfoInputs.cache
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.AssemblyInfo.cs
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.csproj.CoreCompileInputs.cache
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.dll
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.pdb
+C:\Users\NewForce\workspace\back-end\orientation\lists\obj\Debug\netcoreapp3.1\lists.genruntimeconfig.cache
